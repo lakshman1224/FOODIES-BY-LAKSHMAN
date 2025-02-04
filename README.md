@@ -111,7 +111,7 @@ This repository is aimed to help people to contribute in open source and learn G
 ### Create an Issue
 
 1. **Navigate to the GitHub Repository**:
-   - Go to [foodiesbylakshman Repository](https://github.com/khushi-joshi-05/Food-ordering-website.git ) .
+   - Go to [foodiesbylakshman Repository](https://github.com/lakshman1224/FOODIES-BY-LAKSHMAN ) .
 
 2. **Open the Issues Tab**:
    - Click on `Issues`.
@@ -225,8 +225,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 Thank you for contributing to our repository.😃
 
-<a href="https://github.com/SaiyamTuteja/Faculty_Evaluation_System/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=khushi-joshi-05/Food-ordering-website" alt="Contributors" width="99%"/>
+<a href="https://github.com/lakshman1224/">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/15395.jpg" alt="enjoy" width="99%"/>
 </a>
 
 <br>
